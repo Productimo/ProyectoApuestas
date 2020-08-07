@@ -19,17 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2628d077-b7c0-4d3d-aaac-f731f8992d91" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/creacion_bds.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ProyectoApuestas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProyectoApuestas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/creacioncuentas.py" beforeDir="false" />
+=======
+    <list default="true" id="bf83581f-0ba3-4122-911b-581ccbbab250" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -41,6 +48,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fiNDfBQoYdQ1kadi9fP75YnflF" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fjh3sZ4ajg8jg2sp8mH6ds2ozn" />
+>>>>>>> master
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -49,6 +62,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -81,16 +95,29 @@
       </list>
     </recent_temporary>
   </component>
+=======
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+>>>>>>> master
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="2628d077-b7c0-4d3d-aaac-f731f8992d91" name="Default Changelist" comment="" />
       <created>1596696835042</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596696835042</updated>
+=======
+      <changelist id="bf83581f-0ba3-4122-911b-581ccbbab250" name="Default Changelist" comment="" />
+      <created>1596737213109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596737213109</updated>
+>>>>>>> master
     </task>
     <servers />
   </component>
@@ -106,6 +133,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="675" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596774370950">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -128,4 +156,6 @@
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1024.728@0.0.1920.1040" timestamp="1596777402094" />
   </component>
+=======
+>>>>>>> master
 </project>
